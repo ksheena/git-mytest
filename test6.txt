@@ -1,5 +1,0 @@
-<html>
-<body>
-<h1> testing from master </h1>
-</body>
-</html>
