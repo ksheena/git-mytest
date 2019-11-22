@@ -1,0 +1,12 @@
+#!/bin/bash
+
+a1=("122" "123" "124")
+length=${#a1[@]}
+
+echo "length of array is $length "
+
+
+for ((i=0; i<${length} ;i++))
+do
+	echo ${a1[$i]}
+done
